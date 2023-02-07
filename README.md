@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lukastrof
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me email; stpofive@gmail.com
+- 👀 I’m interested in everything to do with Linux system administration 
+- 🌱 I’m currently learning Powershell, Python, BASH, and HTML/CSS
+
 
 <!---
 lukastrof/lukastrof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
